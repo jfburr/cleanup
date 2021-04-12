@@ -5,7 +5,7 @@
 # System uses brew and mass
 
 echo 'Brew: cleaning...'
-brew updated
+brew update
 brew upgrade
 brew cleanup
 echo 'Brew: cleaned'
